@@ -1,6 +1,6 @@
 {
-  "name": "node-quill-converter",
-  "version": "0.3.2",
+  "name": "node-quill-converter-improved",
+  "version": "0.1.0",
   "description": "Convert HTML to Delta or Delta to HTML",
   "keywords": [
     "node",
@@ -9,9 +9,9 @@
     "convert",
     "html"
   ],
-  "homepage": "https://github.com/joelcolucci/node-quill-converter",
+  "homepage": "https://github.com/natan-morar/node-quill-converter-improved",
   "bugs": {
-    "url": "https://github.com/joelcolucci/node-quill-converter/issues"
+    "url": "https://github.com/natan-morar/node-quill-converter-improved/issues"
   },
   "main": "./lib/index.js",
   "author": "Joel Colucci",
